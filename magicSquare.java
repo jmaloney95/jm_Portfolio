@@ -1,6 +1,6 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
-public class Assign1_2 {
+public class magicSquare {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     int size = -1;
