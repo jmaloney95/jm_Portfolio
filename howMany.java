@@ -2,8 +2,7 @@
 // COSC 236                      ASSIGNMENT 2_1
 // YOUR NAME: John Maloney
 // PROGRAM-NAME: howMany
-//
-//**********************************************
+// **********************************************
 import java.util.Scanner;
 public class howMany {
   public static void main(String[] args) {
