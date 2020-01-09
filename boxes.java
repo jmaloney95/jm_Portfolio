@@ -2,8 +2,7 @@
 // COSC 236                      ASSIGNMENT 2_4
 // YOUR NAME: John Maloney
 // PROGRAM-NAME: boxes
-//
-//**********************************************
+// **********************************************
 import java.util.Scanner;
 public class boxes {
   public static void main(String[] args) {
