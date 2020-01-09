@@ -2,7 +2,7 @@ import java.util.InputMismatchException;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Assign1_1 {
+public class modMatrix {
   public static final int MINIMUM = 1;
   public static final int MAXIMUM = 10;
   public static void main(String[] args) {
